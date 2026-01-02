@@ -68,7 +68,7 @@ Bateriju_pakas/
     ├── cells_window.py
     ├── orders_window.py
     └── serials_window.py
-```text
+```
 ---
 
 ## Installation & Running
@@ -111,4 +111,5 @@ You are free to use, modify, and distribute this project.
 
 
 Rudolfs Osmanis
+
 
