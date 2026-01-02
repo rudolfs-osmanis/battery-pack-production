@@ -50,23 +50,24 @@ The system supports cell parameter management, order registration with configura
 ---
 
 ## Project Structure
+
+```text
 Bateriju_pakas/
 ├── app.py
 ├── README.md
 ├── .gitignore
 ├── db/
-│ ├── init.py
-│ ├── connection.py
-│ ├── schema.py
-│ ├── cell_repo.py
-│ └── order_repo.py
+│   ├── __init__.py
+│   ├── connection.py
+│   ├── schema.py
+│   ├── cell_repo.py
+│   └── order_repo.py
 └── ui/
-├── init.py
-├── main_window.py
-├── cells_window.py
-├── orders_window.py
-└── serials_window.py
-
+    ├── __init__.py
+    ├── main_window.py
+    ├── cells_window.py
+    ├── orders_window.py
+    └── serials_window.py
 ---
 
 ## Installation & Running
@@ -106,5 +107,6 @@ MIT License
 You are free to use, modify, and distribute this project.
 
 ### Author
+
 
 Rudolfs Osmanis
